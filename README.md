@@ -1,6 +1,7 @@
 # blog
 
-博文在issues。
+博文主要在issues或者源码文件中。
+这里是目录～
 
 
 ## [python](https://github.com/vernvern/blog/issues?q=is%3Aopen+is%3Aissue+label%3Apython)
