@@ -8,8 +8,9 @@
 ### 标准模块
 
 - collections
-  - abc
+  - [abc](https://github.com/vernvern/blog/issues/2)
 
 
 ### built-in
 
+- [isinstance](https://github.com/vernvern/blog/issues/1)
