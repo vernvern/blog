@@ -15,3 +15,7 @@
 ### built-in
 
 - [isinstance](https://github.com/vernvern/blog/issues/1)
+
+### 设计模式
+
+- [单例模式](/python/python的单例模式.ipynb)
