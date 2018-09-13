@@ -23,7 +23,6 @@ here is toc～
 
 
 ## note
-### python
-#### 设计模式
+### 设计模式
 
-- [单例模式](/python/python的单例模式.ipynb)
+- [python的单例模式](/python/python的单例模式.ipynb)
