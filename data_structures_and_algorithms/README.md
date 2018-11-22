@@ -4,7 +4,7 @@
 
 ## 线性表
 
-- 数组
+- [数组](./data_structures/Array.ipynb)
 
 - 链表
   - [ ] 单链表
