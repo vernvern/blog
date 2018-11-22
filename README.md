@@ -21,10 +21,11 @@ here is toc～
 
 - [isinstance](https://github.com/vernvern/blog/issues/1)
 
-### [Data Structures Snd Algorithms](./data_structures_and_algorithms)
-
 
 ## note
 ### 设计模式
 
 - [python的单例模式](/python/python的单例模式.ipynb)
+
+
+### [数据结构和算法](./data_structures_and_algorithms)
