@@ -21,6 +21,8 @@ here is toc～
 
 - [isinstance](https://github.com/vernvern/blog/issues/1)
 
+### [Data Structures Snd Algorithms](./data_structures_and_algorithms)
+
 
 ## note
 ### 设计模式
