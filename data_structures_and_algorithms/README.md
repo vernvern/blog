@@ -13,7 +13,7 @@
   - [ ] 双向循环链表
   - [ ] 静态链表
 
-- [栈](./data_structures/stack.ipynb)
+- [栈](./data_structures/linked_list/stack.ipynb)
 
 
 
