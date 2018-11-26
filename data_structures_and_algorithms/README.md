@@ -17,7 +17,7 @@
 
 
 
-- 队列
+- [队列](./data_structures/linked_list/queue.ipynb)
 
 
 
