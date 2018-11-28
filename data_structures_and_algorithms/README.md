@@ -13,7 +13,7 @@
 - [队列](./data_structures/linked_list/queue.ipynb)
 
 
-## 散列表
+## [散列表(hash)](./hash.ipynb)
 
 ## 树
 
