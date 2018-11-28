@@ -8,8 +8,9 @@
 
 ---
 
-- [单链表](./data_structures/linked_list/link_list.ipynb)
+- [单链表](./link_list.ipynb)
 - 双向链表
 - 循环链表
 - 双向循环链表
 - 静态链表
+- [跳表](./skip_list.ipynb)
