@@ -7,18 +7,10 @@
 - [数组](./data_structures/Array.ipynb)
 
 - [链表](./data_structures/linked_list)
-  - [X] [单链表](./data_structures/linked_list/link_list.ipynb)
-  - [ ] 双向链表
-  - [ ] 循环链表
-  - [ ] 双向循环链表
-  - [ ] 静态链表
 
 - [栈](./data_structures/linked_list/stack.ipynb)
 
-
-
 - [队列](./data_structures/linked_list/queue.ipynb)
-
 
 
 ## 散列表
