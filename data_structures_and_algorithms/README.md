@@ -15,7 +15,7 @@
 
 ## [散列表(hash)](./hash.ipynb)
 
-## [树](./tree/README.md)
+## [树](./data_structures/tree)
 
 ## 图
 
