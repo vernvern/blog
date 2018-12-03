@@ -29,3 +29,5 @@ here is toc～
 
 
 ### [数据结构和算法](./data_structures_and_algorithms)
+
+### [linux性能优化](./linux_performance)
