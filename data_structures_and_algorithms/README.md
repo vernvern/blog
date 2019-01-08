@@ -21,7 +21,7 @@
 
 ## 复杂度分析
 
-## 基本算法思想
+## [基本算法思想](./base_algorithm.md)
 
 ## [排序](./algorithms)
 
