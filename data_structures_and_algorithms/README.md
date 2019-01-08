@@ -25,8 +25,6 @@
 
 ## [排序](./algorithms)
 
-## 搜索
-
 ## [查找](./search)
 
 ## [字符串匹配](./str_match)
