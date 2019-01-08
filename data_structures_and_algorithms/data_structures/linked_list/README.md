@@ -14,3 +14,5 @@
 - 双向循环链表
 - 静态链表
 - [跳表](./skip_list.ipynb)
+- [栈](./stack.ipynb)
+- [队列](./queue.ipynb)
