@@ -5,3 +5,4 @@
 - [BM算法(Boyer-Moore算法)](./boyer_moore.ipynb): 利用好后缀和坏字符，快速移动匹配。
 - [sunday算法](./sunday.ipynb): 利用主串中参与匹配的最后一个字符的下一个字符，在模式串中的位置，快速移动匹配。
 - [AC算法](./Aho-Corasick.ipynb): 使用Trie树结构，应用于多模式串匹配实现敏感词过滤。
+- [正则匹配](./regex.ipynb)
